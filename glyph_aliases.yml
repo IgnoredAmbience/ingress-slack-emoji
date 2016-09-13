@@ -1,0 +1,356 @@
+title: Ingress Glyphs
+emojis:
+- name: glyph_danger
+  aliases:
+  - g_danger
+- name: glyph_ignore
+  aliases:
+  - g_ignore
+- name: glyph_rebel
+  aliases:
+  - g_rebel
+- name: glyph_data_signal
+  aliases:
+  - glyph_data
+  - glyph_signal
+  - g_data
+  - g_signal
+- name: glyph_imperfect
+  aliases:
+  - g_imperfect
+- name: glyph_recharge_repair
+  aliases:
+  - glyph_recharge
+  - glyph_repair
+  - g_recharge
+  - g_repair
+- name: glyph_defend
+  aliases:
+  - g_defend
+- name: glyph_improve
+  aliases:
+  - g_improve
+- name: glyph_reduce
+  aliases:
+  - g_reduce
+- name: glyph_destiny
+  aliases:
+  - g_destiny
+- name: glyph_impure
+  aliases:
+  - g_impure
+- name: glyph_resistance
+  aliases:
+  - g_resistance
+- name: glyph_destroy
+  aliases:
+  - g_destroy
+- name: glyph_inside
+  aliases:
+  - g_inside
+- name: glyph_restraint
+  aliases:
+  - g_restraint
+- name: glyph_deteriorate
+  aliases:
+  - g_deteriorate
+- name: glyph_intelligence
+  aliases:
+  - g_intelligence
+- name: glyph_retreat
+  aliases:
+  - g_retreat
+- name: glyph_die
+  aliases:
+  - g_die
+- name: glyph_journey
+  aliases:
+  - g_journey
+- name: glyph_safety
+  aliases:
+  - g_safety
+- name: glyph_difficult
+  aliases:
+  - g_difficult
+- name: glyph_lead
+  aliases:
+  - g_lead
+- name: glyph_save
+  aliases:
+  - g_save
+- name: glyph_discover
+  aliases:
+  - g_discover
+- name: glyph_less
+  aliases:
+  - g_less
+- name: glyph_search
+  aliases:
+  - g_search
+- name: glyph_advance
+  aliases:
+  - g_advance
+- name: glyph_distance_outside
+  aliases:
+  - glyph_distance
+  - glyph_outside
+  - g_distance
+  - g_outside
+- name: glyph_liberate
+  aliases:
+  - g_liberate
+- name: glyph_see
+  aliases:
+  - g_see
+- name: glyph_again_repeat
+  aliases:
+  - glyph_again
+  - glyph_repeat
+  - g_again
+  - g_repeat
+- name: glyph_easy
+  aliases:
+  - g_easy
+- name: glyph_lie
+  aliases:
+  - g_lie
+- name: glyph_self
+  aliases:
+  - g_self
+- name: glyph_all
+  aliases:
+  - g_all
+- name: glyph_end
+  aliases:
+  - g_end
+- name: glyph_lose
+  aliases:
+  - g_lose
+- name: glyph_separate
+  aliases:
+  - g_separate
+- name: glyph_answer
+  aliases:
+  - g_answer
+- name: glyph_enlightened
+  aliases:
+  - g_enlightened
+- name: glyph_message
+  aliases:
+  - g_message
+- name: glyph_shapers
+  aliases:
+  - g_shapers
+- name: glyph_attack_war
+  aliases:
+  - glyph_attack
+  - glyph_war
+  - g_attack
+  - g_war
+- name: glyph_equal
+  aliases:
+  - g_equal
+- name: glyph_mind
+  aliases:
+  - g_mind
+- name: glyph_simple
+  aliases:
+  - g_simple
+- name: glyph_avoid
+  aliases:
+  - g_avoid
+- name: glyph_escape
+  aliases:
+  - g_escape
+- name: glyph_more
+  aliases:
+  - g_more
+- name: glyph_soul
+  aliases:
+  - g_soul
+- name: glyph_balance_perfection
+  aliases:
+  - glyph_balance
+  - glyph_perfection
+  - g_balance
+  - g_perfection
+- name: glyph_evolution_success
+  aliases:
+  - glyph_evolution
+  - glyph_success
+  - g_evolution
+  - g_success
+- name: glyph_nature
+  aliases:
+  - g_nature
+- name: glyph_stability_stay
+  aliases:
+  - glyph_stability
+  - glyph_stay
+  - g_stability
+  - g_stay
+- name: glyph_barrier
+  aliases:
+  - g_barrier
+- name: glyph_failure
+  aliases:
+  - g_failure
+- name: glyph_new
+  aliases:
+  - g_new
+- name: glyph_strong
+  aliases:
+  - g_strong
+- name: glyph_body
+  aliases:
+  - g_body
+- name: glyph_fear
+  aliases:
+  - g_fear
+- name: glyph_nourish
+  aliases:
+  - g_nourish
+- name: glyph_technology
+  aliases:
+  - g_technology
+- name: glyph_breathe_live
+  aliases:
+  - glyph_breathe
+  - glyph_live
+  - g_breathe
+  - g_live
+- name: glyph_follow
+  aliases:
+  - g_follow
+- name: glyph_old
+  aliases:
+  - g_old
+- name: glyph_together
+  aliases:
+  - g_together
+- name: glyph_capture
+  aliases:
+  - g_capture
+- name: glyph_forget
+  aliases:
+  - g_forget
+- name: glyph_open_all
+  aliases:
+  - g_open_all
+- name: glyph_truth
+  aliases:
+  - g_truth
+- name: glyph_change
+  aliases:
+  - g_change
+- name: glyph_future
+  aliases:
+  - g_future
+- name: glyph_open
+  aliases:
+  - g_open
+- name: glyph_unbounded
+  aliases:
+  - g_unbounded
+- name: glyph_chaos
+  aliases:
+  - g_chaos
+- name: glyph_gain
+  aliases:
+  - g_gain
+- name: glyph_past
+  aliases:
+  - g_past
+- name: glyph_use
+  aliases:
+  - g_use
+- name: glyph_civilization
+  aliases:
+  - g_civilization
+- name: glyph_grow
+  aliases:
+  - g_grow
+- name: glyph_path
+  aliases:
+  - g_path
+- name: glyph_want
+  aliases:
+  - g_want
+- name: glyph_clear_all
+  aliases:
+  - g_clear_all
+- name: glyph_harm
+  aliases:
+  - g_harm
+- name: glyph_portal
+  aliases:
+  - g_portal
+- name: glyph_weak
+  aliases:
+  - g_weak
+- name: glyph_clear
+  aliases:
+  - g_clear
+- name: glyph_harmony_peace
+  aliases:
+  - glyph_harmony
+  - glyph_peace
+  - g_harmony
+  - g_peace
+- name: glyph_potential
+  aliases:
+  - g_potential
+- name: glyph_xm
+  aliases:
+  - g_xm
+- name: glyph_complex
+  aliases:
+  - g_complex
+- name: glyph_have
+  aliases:
+  - g_have
+- name: glyph_present_now
+  aliases:
+  - glyph_present
+  - glyph_now
+  - g_present
+  - g_now
+- name: glyph_conflict
+  aliases:
+  - g_conflict
+- name: glyph_help
+  aliases:
+  - g_help
+- name: glyph_pure
+  aliases:
+  - g_pure
+- name: glyph_contemplate
+  aliases:
+  - g_contemplate
+- name: glyph_hide
+  aliases:
+  - g_hide
+- name: glyph_pursue
+  aliases:
+  - g_pursue
+- name: glyph_courage
+  aliases:
+  - g_courage
+- name: glyph_human
+  aliases:
+  - g_human
+- name: glyph_question
+  aliases:
+  - g_question
+- name: glyph_create
+  aliases:
+  - g_create
+- name: glyph_idea_thought
+  aliases:
+  - glyph_idea
+  - glyph_thought
+  - g_idea
+  - g_thought
+- name: glyph_react
+  aliases:
+  - g_react
