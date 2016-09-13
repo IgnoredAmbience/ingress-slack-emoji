@@ -7,10 +7,16 @@ emojis:
 - name: glyph_rebel
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_rebel_emoji.png
 - name: glyph_data_signal
+  aliases:
+  - glyph_data
+  - glyph_signal
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_data_signal_emoji.png
 - name: glyph_imperfect
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_imperfect_emoji.png
 - name: glyph_recharge_repair
+  aliases:
+  - glyph_recharge
+  - glyph_repair
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_recharge_repair_emoji.png
 - name: glyph_defend
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_defend_emoji.png
@@ -57,12 +63,18 @@ emojis:
 - name: glyph_advance
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_advance_emoji.png
 - name: glyph_distance_outside
+  aliases:
+  - glyph_distance
+  - glyph_outside
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_distance_outside_emoji.png
 - name: glyph_liberate
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_liberate_emoji.png
 - name: glyph_see
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_see_emoji.png
 - name: glyph_again_repeat
+  aliases:
+  - glyph_again
+  - glyph_repeat
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_again_repeat_emoji.png
 - name: glyph_easy
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_easy_emoji.png
@@ -87,6 +99,9 @@ emojis:
 - name: glyph_shapers
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_shapers_emoji.png
 - name: glyph_attack_war
+  aliases:
+  - glyph_attack
+  - glyph_war
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_attack_war_emoji.png
 - name: glyph_equal
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_equal_emoji.png
@@ -103,12 +118,21 @@ emojis:
 - name: glyph_soul
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_soul_emoji.png
 - name: glyph_balance_perfection
+  aliases:
+  - glyph_balance
+  - glyph_perfection
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_balance_perfection_emoji.png
 - name: glyph_evolution_success
+  aliases:
+  - glyph_evolution
+  - glyph_success
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_evolution_success_emoji.png
 - name: glyph_nature
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_nature_emoji.png
 - name: glyph_stability_stay
+  aliases:
+  - glyph_stability
+  - glyph_stay
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_stability_stay_emoji.png
 - name: glyph_barrier
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_barrier_emoji.png
@@ -127,6 +151,9 @@ emojis:
 - name: glyph_technology
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_technology_emoji.png
 - name: glyph_breathe_live
+  aliases:
+  - glyph_breathe
+  - glyph_live
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_breathe_live_emoji.png
 - name: glyph_follow
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_follow_emoji.png
@@ -177,6 +204,9 @@ emojis:
 - name: glyph_clear
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_clear_emoji.png
 - name: glyph_harmony_peace
+  aliases:
+  - glyph_harmony
+  - glyph_peace
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_harmony_peace_emoji.png
 - name: glyph_potential
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_potential_emoji.png
@@ -187,6 +217,9 @@ emojis:
 - name: glyph_have
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_have_emoji.png
 - name: glyph_present_now
+  aliases:
+  - glyph_present
+  - glyph_now
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_present_now_emoji.png
 - name: glyph_conflict
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_conflict_emoji.png
@@ -209,6 +242,9 @@ emojis:
 - name: glyph_create
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_create_emoji.png
 - name: glyph_idea_thought
+  aliases:
+  - glyph_idea
+  - glyph_thought
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_idea_thought_emoji.png
 - name: glyph_react
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/glyph_react_emoji.png
