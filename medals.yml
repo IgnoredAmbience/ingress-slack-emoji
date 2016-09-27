@@ -6,6 +6,8 @@ emojis:
     src: file:emoji/ada-badge-2016.png
   - name: ada-badge
     src: file:emoji/ada-badge.png
+  - name: aegis-nova
+    src: file:emoji/aegis-nova.png
   - name: akira-tsukasa
     src: file:emoji/akira-tsukasa.png
   - name: devra-bogdanovich
