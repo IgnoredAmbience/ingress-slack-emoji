@@ -38,3 +38,7 @@ emojis:
     src: file:emoji/pa-chapeau.png
   - name: susanna-moyer-2016
     src: file:emoji/susanna-moyer-2016.png
+  - name: via-lux-odyssey
+    src: file:emoji/badge-via-lux-odyssey.png
+  - name: via-lux-adventure
+    src: file:emoji/badge-via-lux-adventure.png
