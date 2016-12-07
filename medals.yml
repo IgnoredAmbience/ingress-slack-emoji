@@ -1,46 +1,46 @@
-title: Medals
+title: Ingress Badges and Medals
 emojis:
-  - name:  badge-acolyte
+  - name: badge-acolyte
     src: file:emoji/badge-acolyte.png
-  - name:  badge-ada-2016
+  - name: badge-ada-2016
     src: file:emoji/badge-ada-2016.png
-  - name:  badge-ada
+  - name: badge-ada
     src: file:emoji/badge-ada.png
-  - name:  badge-aegis-nova
+  - name: badge-aegis-nova
     src: file:emoji/badge-aegis-nova.png
-  - name:  badge-akira-tsukasa
+  - name: badge-akira-tsukasa
     src: file:emoji/badge-akira-tsukasa.png
-  - name:  badge-devra-bogdanovich
+  - name: badge-devra-bogdanovich
     src: file:emoji/badge-devra-bogdanovich.png
-  - name:  badge-edgar-allan-wright
+  - name: badge-edgar-allan-wright
     src: file:emoji/badge-edgar-allan-wright.png
-  - name:  badge-goruck
+  - name: badge-goruck
     src: file:emoji/badge-goruck.png
-  - name:  badge-goruck-stealth
+  - name: badge-goruck-stealth
     src: file:emoji/badge-goruck-stealth.png
-  - name:  badge-goruck-urban
+  - name: badge-goruck-urban
     src: file:emoji/badge-goruck-urban.png
-  - name:  badge-jahan
+  - name: badge-jahan
     src: file:emoji/badge-jahan.png
-  - name:  badge-klue
+  - name: badge-klue
     src: file:emoji/badge-klue.png
-  - name:  badge-nl-1331-america-2016
+  - name: badge-nl-1331-america-2016
     src: file:emoji/badge-nl-1331-america-2016.png
-  - name:  badge-nl-1331-europe
+  - name: badge-nl-1331-europe
     src: file:emoji/badge-nl-1331-europe.png
-  - name:  badge-nl-prime
+  - name: badge-nl-prime
     src: file:emoji/badge-nl-prime.png
-  - name:  badge-oliver-lynton-wolfe-2016
+  - name: badge-oliver-lynton-wolfe-2016
     src: file:emoji/badge-oliver-lynton-wolfe-2016.png
-  - name:  badge-pa-chapeau-2016
+  - name: badge-pa-chapeau-2016
     src: file:emoji/badge-pa-chapeau-2016.png
-  - name:  badge-pa-chapeau
+  - name: badge-pa-chapeau
     src: file:emoji/badge-pa-chapeau.png
-  - name:  badge-susanna-moyer-2016
+  - name: badge-susanna-moyer-2016
     src: file:emoji/badge-susanna-moyer-2016.png
-  - name:  badge-via-lux-odyssey
+  - name: badge-via-lux-odyssey
     src: file:emoji/badge-via-lux-odyssey.png
-  - name:  badge-via-lux-adventure
+  - name: badge-via-lux-adventure
     src: file:emoji/badge-via-lux-adventure.png
   - name: badge-hank-johnson
     src: file:emoji/badge-hank-johnson.png
