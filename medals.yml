@@ -42,3 +42,29 @@ emojis:
     src: file:emoji/badge-via-lux-odyssey.png
   - name:  badge-via-lux-adventure
     src: file:emoji/badge-via-lux-adventure.png
+  - name: badge-hank-johnson
+    src: file:emoji/badge-hank-johnson.png
+  - name: badge-klue-2016
+    src: file:emoji/badge-klue-2016.png
+  - name: badge-kodamasmiles
+    src: file:emoji/badge-kodamasmiles.png
+  - name: badge-nl1331
+    src: file:emoji/badge-nl1331.png
+  - name: badge-oliver-lynton-wolfe
+    src: file:emoji/badge-oliver-lynton-wolfe.png
+  - name: badge-stella-vyctory
+    src: file:emoji/badge-stella-vyctory.png
+  - name: badge-susanna-moyer
+    src: file:emoji/badge-susanna-moyer.png
+  - name: badge-via-noir
+    src: file:emoji/badge-via-noir.png
+  - name: medal-luminary-1
+    src: file:emoji/medal-luminary-1.png
+  - name: medal-luminary-2
+    src: file:emoji/medal-luminary-2.png
+  - name: medal-luminary-3
+    src: file:emoji/medal-luminary-3.png
+  - name: medal-luminary-4
+    src: file:emoji/medal-luminary-4.png
+  - name: medal-luminary-5
+    src: file:emoji/medal-luminary-5.png

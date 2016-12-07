@@ -334,3 +334,29 @@ emojis:
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-via-lux-odyssey.png
 - name: badge-via-lux-adventure
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-via-lux-adventure.png
+- name: badge-hank-johnson
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-hank-johnson.png
+- name: badge-klue-2016
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-klue-2016.png
+- name: badge-kodamasmiles
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-kodamasmiles.png
+- name: badge-nl1331
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-nl1331.png
+- name: badge-oliver-lynton-wolfe
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-oliver-lynton-wolfe.png
+- name: badge-stella-vyctory
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-stella-vyctory.png
+- name: badge-susanna-moyer
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-susanna-moyer.png
+- name: badge-via-noir
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-via-noir.png
+- name: medal-luminary-1
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-1.png
+- name: medal-luminary-2
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-2.png
+- name: medal-luminary-3
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-3.png
+- name: medal-luminary-4
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-4.png
+- name: medal-luminary-5
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-5.png
