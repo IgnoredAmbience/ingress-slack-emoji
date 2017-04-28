@@ -70,3 +70,7 @@ emojis:
     src: file:emoji/medal-luminary-4.png
   - name: medal-luminary-5
     src: file:emoji/medal-luminary-5.png
+  - name: badge-magnus-architect
+    src: file:emoji/badge-magnus-architect.png
+  - name: badge-magnus-builder
+    src: file:emoji/badge-magnus-builder.png

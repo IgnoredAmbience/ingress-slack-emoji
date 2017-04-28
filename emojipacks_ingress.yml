@@ -362,3 +362,7 @@ emojis:
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-5.png
 - name: badge-hank-johnson-2016
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-hank-johnson-2016.png
+- name: badge-magnus-architect
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-magnus-architect.png
+- name: badge-magnus-builder
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-magnus-builder.png
