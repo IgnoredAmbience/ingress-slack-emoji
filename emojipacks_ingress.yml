@@ -360,6 +360,16 @@ emojis:
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-4.png
 - name: medal-luminary-5
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal-luminary-5.png
+- name: medal-opr-1
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal_opr_01.png
+- name: medal-opr-2
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal_opr_02.png
+- name: medal-opr-3
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal_opr_03.png
+- name: medal-opr-4
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal_opr_04.png
+- name: medal-opr-5
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/medal_opr_05.png
 - name: badge-hank-johnson-2016
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-hank-johnson-2016.png
 - name: badge-magnus-architect
