@@ -440,3 +440,11 @@ emojis:
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/level_16_enl.png
 - name: level-16-res
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/level_16_res.png
+- name: badge-13magnus-reawakens
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-13magnus-reawakens.png
+- name: badge-exo5-controller-1
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-exo5-controller-1.png
+- name: badge-exo5-controller-2
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-exo5-controller-2.png
+- name: badge-exo5-controller-3
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-exo5-controller-3.png

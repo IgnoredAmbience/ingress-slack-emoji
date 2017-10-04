@@ -74,3 +74,11 @@ emojis:
     src: file:emoji/badge-magnus-architect.png
   - name: badge-magnus-builder
     src: file:emoji/badge-magnus-builder.png
+  - name: badge-13magnus-reawakens
+    src: file:emoji/badge-13magnus-reawakens.png
+  - name: badge-exo5-controller-1
+    src: file:emoji/badge-exo5-controller-1.png
+  - name: badge-exo5-controller-2
+    src: file:emoji/badge-exo5-controller-2.png
+  - name: badge-exo5-controller-3
+    src: file:emoji/badge-exo5-controller-3.png
