@@ -448,3 +448,5 @@ emojis:
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-exo5-controller-2.png
 - name: badge-exo5-controller-3
   src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/badge-exo5-controller-3.png
+- name: exo5-logo
+  src: https://raw.githubusercontent.com/edgemaster/ingress-slack-emoji/master/emoji/exo5-logo.png
